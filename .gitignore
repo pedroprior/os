@@ -1,6 +1,3 @@
-*.d
-*.kernel
-*.o
 *.iso
 isodir
 sysroot

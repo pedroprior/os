@@ -3,4 +3,4 @@
 
 #define __myos_libc 1
 
-#endif //_SYS_CDEFS_H
+#endif
