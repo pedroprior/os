@@ -28,7 +28,7 @@ _start:
 
 	# Call the global constructors.
 	call _init
-
+	call memory_start
 	# Transfer control to the main kernel.
 	call kernel_main
 
